@@ -55,6 +55,7 @@ const UNIFICATION_ORDER = [
     "indrev",
     "bewitchment",
     "techreborn",
+    "charm",
     "croptopia",
     "dwarfcoal",
     "ae2"

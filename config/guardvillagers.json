@@ -1,23 +1,24 @@
 {
-  "useSteveModel": false,
-  "GuardsRunFromPolarBears": true,
-  "GuardFormation": true,
-  "ClericHealing": true,
-  "armorerRepairGuardArmor": true,
-  "GuardsOpenDoors": true,
-  "AttackAllMobs": false,
-  "giveGuardStuffHOTV": true,
-  "setGuardPatrolHotv": true,
-  "GuardAlwaysShield": true,
-  "FriendlyFire": true,
-  "guardArrowsHurtVillagers": false,
-  "RaidAnimals": true,
-  "WitchesVillager": true,
-  "BlackSmithHealing": true,
-  "GuardVillagerHelpRange": 50.0,
-  "ConvertVillagerIfHaveHOTV": true,
-  "amountOfHealthRegenerated": 1,
-  "MobBlackList": [
-    "creeper"
-  ]
+  "generail": {
+    "useSteveModel": false,
+    "GuardsRunFromPolarBears": true,
+    "GuardFormation": true,
+    "ClericHealing": true,
+    "armorerRepairGuardArmor": true,
+    "GuardsOpenDoors": true,
+    "giveGuardStuffHOTV": true,
+    "setGuardPatrolHotv": true,
+    "GuardAlwaysShield": true,
+    "FriendlyFire": false,
+    "guardArrowsHurtVillagers": false,
+    "RaidAnimals": false,
+    "WitchesVillager": true,
+    "BlackSmithHealing": true,
+    "GuardVillagerHelpRange": 50.0,
+    "ConvertVillagerIfHaveHOTV": false,
+    "amountOfHealthRegenerated": 1
+  },
+  "permission": {
+    "AmountOfConversions": 5
+  }
 }
