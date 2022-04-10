@@ -1,3 +1,13 @@
+### All of Fabric 5 | v1.2.0 | The 1.18.2 Update
+
+_Fabric Loader 0.13.3_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/changelog_mods_1.2.0.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/modlist_1.2.0.md)_
+
+## Changes
+
+* Updated to 1.18.2
+* Disabled Promenade ducks.
+---
+
 ### All of Fabric 5 | v1.1.4
 
 _Fabric Loader 0.13.3_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/changelog_mods_1.1.4.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-5/blob/main/changelogs/modlist_1.1.4.md)_
